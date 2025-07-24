@@ -4,6 +4,17 @@ This tutorial demonstrates how to use **Circle's Developer-Controlled Wallets AP
 
 > **Note**: This tutorial is specifically for Circle's **Developer-Controlled Wallets** product, not User-Controlled Wallets. Developer-Controlled Wallets give you full programmatic control over wallet operations through Circle's APIs.
 
+## 📚 Based on Official Circle Documentation
+
+This tutorial follows the official Circle Interactive Quickstart guide:
+**[Circle Developer-Controlled Wallets Quickstart](https://developers.circle.com/interactive-quickstarts/dev-controlled-wallets)**
+
+The implementation includes all the key features from the official quickstart:
+- ✅ Wallet Set Creation
+- ✅ Wallet Creation  
+- ✅ Transaction Creation
+- ✅ Transaction Monitoring
+
 ## Prerequisites
 
 1. **Circle Developer Account** - Sign up at [Circle Developer Console](https://console.circle.com/)
